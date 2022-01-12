@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://jeffza666.github.io/csb-4hulb/static/css/main.401bce9b.chunk.css",
+    "main.js": "https://jeffza666.github.io/csb-4hulb/static/js/main.1ef71920.chunk.js",
+    "main.js.map": "https://jeffza666.github.io/csb-4hulb/static/js/main.1ef71920.chunk.js.map",
+    "runtime-main.js": "https://jeffza666.github.io/csb-4hulb/static/js/runtime-main.1a38c489.js",
+    "runtime-main.js.map": "https://jeffza666.github.io/csb-4hulb/static/js/runtime-main.1a38c489.js.map",
+    "static/js/2.1fbb617a.chunk.js": "https://jeffza666.github.io/csb-4hulb/static/js/2.1fbb617a.chunk.js",
+    "static/js/2.1fbb617a.chunk.js.map": "https://jeffza666.github.io/csb-4hulb/static/js/2.1fbb617a.chunk.js.map",
+    "index.html": "https://jeffza666.github.io/csb-4hulb/index.html",
+    "precache-manifest.04afdb6f550e30de748fb2a343ea631b.js": "https://jeffza666.github.io/csb-4hulb/precache-manifest.04afdb6f550e30de748fb2a343ea631b.js",
+    "service-worker.js": "https://jeffza666.github.io/csb-4hulb/service-worker.js",
+    "static/css/main.401bce9b.chunk.css.map": "https://jeffza666.github.io/csb-4hulb/static/css/main.401bce9b.chunk.css.map",
+    "static/js/2.1fbb617a.chunk.js.LICENSE.txt": "https://jeffza666.github.io/csb-4hulb/static/js/2.1fbb617a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a38c489.js",
+    "static/js/2.1fbb617a.chunk.js",
+    "static/css/main.401bce9b.chunk.css",
+    "static/js/main.1ef71920.chunk.js"
+  ]
+}
